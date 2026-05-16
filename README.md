@@ -2,7 +2,7 @@
 
 Algorithmic trading agent for IMC's [Prosperity 4](https://prosperity.imc.com/) competition (April 2026). A single Python class trades against a simulated market each tick: stable products, drifting mid-prices, basket spreads, options vouchers, and cross-exchange arbitrage. Five rounds, one algo file under 100 KB.
 
-This repo is the working code I built and iterated during the competition: strategies, the research that calibrated them, the manual-challenge solvers, and the harness used to A/B test variants before submission.
+This repo is the working code we built and iterated during the competition: strategies, the research that calibrated them, the manual-challenge solvers, and the harness used to A/B test variants before submission.
 
 ## What's in here
 
